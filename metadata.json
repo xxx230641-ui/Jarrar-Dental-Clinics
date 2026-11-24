@@ -1,0 +1,6 @@
+{
+  "name": "Jarrar Dental Clinics",
+  "description": "عيادات جرار لطب الأسنان في عمّان، الأردن — رعاية متخصصة في زراعة الأسنان، تجميل الأسنان، القشور الخزفية وتصميم الابتسامة بإشراف د. طارق جرار ود. عامر جرار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
